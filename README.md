@@ -2,6 +2,6 @@
 
 ## Coursera 
   
-## Future Ideas 
+## RL-Study
 
 ## Others 
